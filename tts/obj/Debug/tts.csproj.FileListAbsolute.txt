@@ -1,0 +1,10 @@
+C:\Users\hecto\source\repos\tts\tts\bin\Debug\tts.exe.config
+C:\Users\hecto\source\repos\tts\tts\bin\Debug\tts.exe
+C:\Users\hecto\source\repos\tts\tts\bin\Debug\tts.pdb
+C:\Users\hecto\source\repos\tts\tts\obj\Debug\tts.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\tts\tts\obj\Debug\tts.Form1.resources
+C:\Users\hecto\source\repos\tts\tts\obj\Debug\tts.Properties.Resources.resources
+C:\Users\hecto\source\repos\tts\tts\obj\Debug\tts.csproj.GenerateResource.cache
+C:\Users\hecto\source\repos\tts\tts\obj\Debug\tts.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\tts\tts\obj\Debug\tts.exe
+C:\Users\hecto\source\repos\tts\tts\obj\Debug\tts.pdb
